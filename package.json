@@ -1,0 +1,20 @@
+{
+  "name": "highzone-stremio-addon",
+  "version": "1.0.0",
+  "description": "stremio addon",
+  "main": "addon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isparoz/highzone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isparoz/highzone"
+  },
+  "homepage": "https://github.com/isparoz/highzone#readme"
+}
