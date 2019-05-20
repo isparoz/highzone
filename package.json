@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/isparoz/highzone"
   },
-  "homepage": "https://github.com/isparoz/highzone#readme"
+  "homepage": "https://github.com/isparoz/highzone#readme",
+  "dependencies": {
+    "magnet-uri": "^5.2.4"
+  },
+  "devDependencies": {}
 }
