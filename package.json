@@ -3,22 +3,20 @@
   "version": "1.0.0",
   "description": "stremio addon",
   "main": "addon.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isparoz/highzone.git"
+    "url": "git+https://github.com/isparoz/highzone-sa.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isparoz/highzone"
+    "url": "https://github.com/isparoz/highzone-sa/issues"
   },
-  "homepage": "https://github.com/isparoz/highzone#readme",
-  "dependencies": {
-    "magnet-uri": "^5.2.4"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/isparoz/highzone-sa#readme"
 }
