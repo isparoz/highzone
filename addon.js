@@ -7,6 +7,7 @@ const manifest = {
 
     "name": "HighZone",
     "description": "handpicked movies for high people",
+    "icon": "https://github.com/isparoz/highzone/blob/master/kitete.png?raw=true",
 
     // set what type of resources we will return
     "resources": [
