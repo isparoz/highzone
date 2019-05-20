@@ -2,7 +2,7 @@ const { addonBuilder } = require("stremio-addon-sdk");
 const magnet = require("magnet-uri");
 
 const manifest = { 
-    "id": "org.highzone.stremio.addon",
+    "id": "org.highzonesa.isparoz",
     "version": "1.0.0",
 
     "name": "HighZone",
