@@ -6,7 +6,7 @@ const manifest = {
     "version": "1.0.0",
 
     "name": "HighZone",
-    "description": "handpicked movies for high",
+    "description": "handpicked movies for high people",
 
     // set what type of resources we will return
     "resources": [
